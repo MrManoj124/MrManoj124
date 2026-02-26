@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm [Your Name] 👋
 
-<!--
-**MrManoj124/MrManoj124** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full Stack Developer who loves building clean, useful web applications.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧑‍💻 About Me
+
+- 🔭 Currently working on personal & freelance web projects
+- 🌱 Learning **System Design**, **AI integrations**, and **DevOps**
+- 💬 Ask me about **React**, **Node.js**, or anything web-related
+- 📫 Reach me at **your@email.com**
+- ⚡ Fun fact: I spend more time naming variables than writing code
+
+---
+
+### 🛠️ Tech I Work With
+
+**Frontend:** React · Next.js · JavaScript · TypeScript · TailwindCSS  
+**Backend:** Node.js · Express · REST APIs  
+**Database:** MongoDB · PostgreSQL  
+**Tools:** Git · Docker · VS Code · Figma
+
+---
