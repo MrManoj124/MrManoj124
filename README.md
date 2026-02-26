@@ -9,7 +9,7 @@ Full Stack Developer who loves building clean, useful web applications.
 - 🔭 Currently working on personal & freelance web projects
 - 🌱 Learning **System Design**, **AI integrations**, and **DevOps**
 - 💬 Ask me about **React**, **Node.js**, or anything web-related
-- 📫 Reach me at **your@email.com**
+- 📫 Reach me at **manojmanorooban@gmail.com**
 - ⚡ Fun fact: I spend more time naming variables than writing code
 
 ---
