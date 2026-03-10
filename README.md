@@ -1,4 +1,4 @@
-# Hi, I'm [Your Name] 👋
+# Hi, I'm Manoj 👋
 
 Full Stack Developer who loves building clean, useful web applications.
 
